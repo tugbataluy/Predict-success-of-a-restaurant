@@ -36,7 +36,8 @@ Most Rated Foods:
 
 Most Rated Foods' Comments:
 
-![image](https://user-images.githubusercontent.com/76051144/235320823-39a3679d-f9f0-4ef4-bdd2-231960da2cf5.png)
+![image](https://user-images.githubusercontent.com/76051144/235320908-10eea6bf-8a0f-4ddb-b2c2-c2812e37f1aa.png)
+
 
 
 
