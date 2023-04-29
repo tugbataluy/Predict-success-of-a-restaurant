@@ -27,12 +27,15 @@ Top 5 Most Expensive Restaurants:
 ![image](https://user-images.githubusercontent.com/76051144/235320738-13c19ddb-a2eb-4354-ba3e-7d981221e563.png)
 
 HeatMap of restaurant locations:
+
 ![image](https://user-images.githubusercontent.com/76051144/235320769-ba5206af-c392-445c-960c-7c140fd18294.png)
 
 Most Rated Foods:
+
 ![image](https://user-images.githubusercontent.com/76051144/235320800-d0bb9551-b758-4966-8ff0-d4b7caab016a.png)
 
 Most Rated Foods' Comments:
+
 ![image](https://user-images.githubusercontent.com/76051144/235320823-39a3679d-f9f0-4ef4-bdd2-231960da2cf5.png)
 
 
