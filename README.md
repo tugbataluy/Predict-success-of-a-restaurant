@@ -1,5 +1,5 @@
-# Predict-success-of-a-restaurant
-Predict success of a restaurant using Zomato datas with machine learning
+# Visualization-success-of-a-restaurant
+Visualization success of a restaurant using Zomato datas with machine learning
 
 Click here to access the dataset used for this project: https://drive.google.com/file/d/1EeexPbuMHiiZJ9Z7qeSSt2732a1Yu546/view?usp=sharing
 
